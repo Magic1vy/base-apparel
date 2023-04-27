@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here] ()
-- Live Site URL: [Add live site URL here] ()
+- Solution URL: (https://www.frontendmentor.io/solutions/base-apparel-rediesign-with-custom-cursor-d66kc4996x)
+- Live Site URL: (https://singular-truffle-af3b45.netlify.app/)
 
 
 ### Built with
