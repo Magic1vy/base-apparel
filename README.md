@@ -22,7 +22,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: (https://www.frontendmentor.io/solutions/base-apparel-rediesign-with-custom-cursor-d66kc4996x)
-- Live Site URL: (https://singular-truffle-af3b45.netlify.app/)
+- Live Site URL: (https://base-apparel-lending-page.netlify.app/)
 
 
 ### Built with
